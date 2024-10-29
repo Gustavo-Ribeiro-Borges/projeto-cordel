@@ -24,7 +24,7 @@ header {
 header h1 {
     font-variant: small-caps;
     font-family: "Passion One";
-    font-size: 4em;
+    font-size: 10vw;
 }
 
 a {
@@ -42,7 +42,7 @@ section {
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
-    font-size: 2em;
+    font-size: 2vw;
 }
 
 section.normal {
@@ -68,7 +68,7 @@ section.imagem > p {
 }
 
 #img01 {
-    background-image: url('../imagens/background001.jpg');
+    background-image: url('imagens/background001.jpg');
     background-repeat: no-repeat;
     background-position: right center ;
     background-size: cover;
@@ -76,7 +76,7 @@ section.imagem > p {
 }
 
 #img02 {
-    background-image: url('../imagens/background002.jpg');
+    background-image: url('imagens/background002.jpg');
     background-repeat: no-repeat;
     background-position: right center ;
     background-size: cover;
